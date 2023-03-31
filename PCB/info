@@ -1,0 +1,330 @@
+{
+  "uuid": "0be7edacf39083c11b654d70d7ad0958",
+  "path": "Offline/RC2014%20-%20DIVMMC%20-%20V1.0",
+  "name": "RC2014 - DIVMMC - V1.0",
+  "content": "",
+  "created_at": "2022-02-12 15:49:05",
+  "updated_at": "2023-03-29 14:07:22",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "801cd13d808624f4ee6996007e1c59af",
+      "title": "DIVMMC",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1680052042,
+      "createTime": 1645849192,
+      "histories": [],
+      "created_at": "2022-02-26 17:19:52",
+      "updated_at": "2023-03-29 14:07:22",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          8,
+          "CAP-TH_L5.5-W3.5-P2.50-D0.5 COPY",
+          "C1,C3,C4,C5,C6,C7,C8,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "BOM_Supplier Part": "C72322",
+            "puuid": "64f0880e278e480098c66fa92784f26c",
+            "uuid": "7f474ecfe86cad0db40a161c696fe62f"
+          }
+        ],
+        [
+          "47uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C190654",
+            "BOM_Manufacturer": "Changzhou Huawei Elec",
+            "BOM_Manufacturer Part": "KM1H470ME110A00CV0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "4be4c3425bd24885a3069bf9b90591cd"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x6",
+          2,
+          "HDR-F-2.54_1X6",
+          "H1,H2",
+          {
+            "BOM_Supplier Part": "C40877",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "RC2014 Male 40",
+          1,
+          "HDR-1X40-A-M-R-2.54MM",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "a12d9c123b504547a7ac6826a9e275cf",
+            "uuid": "49c16a621a0b4e6bbc9d426f05fa76c3"
+          }
+        ],
+        [
+          "RC2014 Male 10",
+          1,
+          "HDR-1X10-S-M-2.54MM",
+          "J2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "00f7a051217f4384ae04fe5d4614d653",
+            "uuid": "d385dfa4fc764645bd14927ed7b96795"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J3",
+          {
+            "BOM_Supplier Part": "C66690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c011694efe04de7ac0c392bf11240d5",
+            "uuid": "0d0a13f4d5e4481aa82dc0293d1aa27e"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x3",
+          2,
+          "HDR-M-2.54_2X3",
+          "J4,J5",
+          {
+            "BOM_Supplier Part": "C65114",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "a5b8fff1a45c42f9aa306bafedcb5748",
+            "uuid": "8c95eef853b1473e9539399823e4b359"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "J6",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "Header5X2",
+          1,
+          "HDR-M-2.54_2X5",
+          "J7",
+          {
+            "BOM_Supplier Part": "S9169-ND",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Manufacturer": "Sullins",
+            "BOM_Manufacturer Part": "SBH11-PBPC-D05-ST-BK",
+            "puuid": "bac709540ef743c1b77cca6f50c949b7",
+            "uuid": "cc03d4a8e71b44fd9d9eb6f0ca04f145"
+          }
+        ],
+        [
+          "LED-TH-3mm_R",
+          3,
+          "LED-TH_BD3.0_RED",
+          "LED1,LED2,LED3",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "2N3906BU",
+          3,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q1,Q2,Q3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C124483",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "2N3906BU",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "619489e674074de888fe8dd8f6b9799e",
+            "uuid": "3b6d8374780948d4aff8d32405643eca"
+          }
+        ],
+        [
+          "2N3904TFR",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C258185",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "2N3904TFR",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "619489e674074de888fe8dd8f6b9799e",
+            "uuid": "8fe851a670ed419e91bb3fe99231e0a1"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R_AXIAL-0.3 COPY",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "669d1f209c1049a2b5e17b3eb1d3fef0",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "1K",
+          3,
+          "R_AXIAL-0.3 COPY",
+          "R3,R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "669d1f209c1049a2b5e17b3eb1d3fef0",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "330R",
+          3,
+          "R_AXIAL-0.3 COPY",
+          "R4,R6,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "669d1f209c1049a2b5e17b3eb1d3fef0",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "K4-6×6_TH",
+          2,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "EPM7128SLC84",
+          1,
+          "PLCC84_PTH-SKT",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "EPM7128SLC84",
+            "BOM_Supplier Part": "692-Z8S18020VEG",
+            "BOM_Supplier": "Mouser",
+            "puuid": "4d527d446d81442fba3865319d0cddb9",
+            "uuid": "2cc22bb9b8c7473f8eee8040d81fcf8d"
+          }
+        ],
+        [
+          "28C64",
+          1,
+          "DIP28-600 APC",
+          "U3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Manufacturer": "",
+            "puuid": "e5445647bb554dc1b66a01a8003c1ae6",
+            "uuid": "6699556b2ad14454ad46a02ca48acbc5"
+          }
+        ],
+        [
+          "HM628128D",
+          1,
+          "HM628128ALP-7 COPY",
+          "U4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9543c748eba14b84ab296849364567e1",
+            "uuid": "f500190cba9743bcb28d40e869c7ca0f"
+          }
+        ]
+      ],
+      "components": {
+        "2cc22bb9b8c7473f8eee8040d81fcf8d": 1,
+        "cc03d4a8e71b44fd9d9eb6f0ca04f145": 1,
+        "7f474ecfe86cad0db40a161c696fe62f": 8,
+        "f500190cba9743bcb28d40e869c7ca0f": 1,
+        "4be4c3425bd24885a3069bf9b90591cd": 1,
+        "6699556b2ad14454ad46a02ca48acbc5": 1,
+        "18479f1c4d4749c5a4c4387846c5d657": 2,
+        "49c16a621a0b4e6bbc9d426f05fa76c3": 1,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 8,
+        "2f5c8276f8d64010877a8d3bb97697b8": 2,
+        "0d0a13f4d5e4481aa82dc0293d1aa27e": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "8c95eef853b1473e9539399823e4b359": 2,
+        "3721972c581d4f99b226effb1db7a790": 3,
+        "d385dfa4fc764645bd14927ed7b96795": 1,
+        "8fe851a670ed419e91bb3fe99231e0a1": 1,
+        "3b6d8374780948d4aff8d32405643eca": 3
+      }
+    },
+    {
+      "uuid": "7dcf9ba6bbbea7a936a0f8d70646e2ab",
+      "title": "PCB - RC2014- DIVMMC",
+      "filename": "PCB - RC2014- DIVMMC.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1645938998,
+      "createTime": 1645938998,
+      "histories": [],
+      "created_at": "2022-02-27 18:16:38",
+      "updated_at": "2022-02-27 18:16:38"
+    }
+  ],
+  "sort": [],
+  "title": "RC2014 - DIVMMC - V1.0",
+  "foldername": "RC2014 - DIVMMC - V1.0",
+  "schfilename": "RC2014- DIVMMC.json",
+  "schfilemtime": 1680052042767
+}

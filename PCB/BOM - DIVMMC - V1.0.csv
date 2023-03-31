@@ -1,0 +1,21 @@
+﻿Name,Designator,Quantity,Notes
+100nF,"C1,C3,C4,C5,C6,C7,C8,C9",8,Works better with C5 <47nF
+47uF,C2,1,
+HDR-F-2.54_1x6,"H1,H2",2,
+RC2014 Male 40,J1,1,
+RC2014 Male 10,J2,1,
+HDR-M-2.54_2x2,J3,1,
+HDR-M-2.54_2x3,"J4,J5",2,
+HDR-M-2.54_1x2,J6,1,
+Header5X2,J7,1,
+LED-TH-3mm_R,"LED1,LED2,LED3",3,
+2N3906,"Q1,Q2,Q3",3,
+2N3904,Q4,1,
+10K,"R1,R2",2,
+1K,"R3,R5,R7",3,
+330R,"R4,R6,R8",3,
+Push switch,"SW1,SW2",2,
+EPM7128SLC84,U1,1,and PLCC84 socket
+28C64,U3,1,or 28C256
+HM628128D,U4,1,or 62256
+MicroSD Card Adapter,,1,5V Compatible from AliExpress etc
